@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Palette Mosaic';
-    src: local('Palette Mosaic'), url(fonts/PaletteMosaic-Regular.ttf) format('truetype');
+    src: local('Palette Mosaic'), url(../fonts/PaletteMosaic-Regular.ttf) format('truetype');
 }
 
 h1 {
